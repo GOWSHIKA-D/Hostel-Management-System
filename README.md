@@ -47,3 +47,5 @@ C:\xampp\htdocs\hostel-management-system
 
 # Step 5: Launch the app
 Visit: http://localhost/hostel-management-system/
+
+
