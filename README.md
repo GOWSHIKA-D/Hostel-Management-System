@@ -30,11 +30,7 @@ https://github.com/user-attachments/assets/7de444f4-9975-451d-8326-e503a39954cf
 
 ---
 
-## 🚀 Gett
-
-https://github.com/user-attachments/assets/780837a8-1ea5-4f06-8d75-729d2449bebf
-
-ing Started
+## 🚀 Getting Started
 
 Follow these steps to set up the project locally:
 
